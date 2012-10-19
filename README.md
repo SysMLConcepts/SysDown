@@ -1,6 +1,13 @@
 SysDown
 =======
 
+### Inspiration (necessity is the mother of invention) ###
+
+ * SysML tools too complicated
+ * Data representation is not "free" or easily editable without heavyweight tools
+  * UML cannot be hand-edited on a far-away island with nothing more than vim
+ * todo.txt amazing example of how you can build useful tools around very data representation and simple set of rules 
+ 
 ### Goals ###
 
  * SysML concepts represented in a text-based format (Markdown)
@@ -9,10 +16,12 @@ SysDown
   * Access from mobile devices (javascript/html only required)
   * Access from any text editor (vim, nano, Emacs, Notepad++, ...)
   * Should be able to work from anywhere... 
-  
+ 
 ### References ###
  * http://daringfireball.net/projects/markdown/syntax
  * http://www.omgsysml.org/
  * http://github.github.com/github-flavored-markdown/
+ * http://opensourceecology.org/wiki/Global_Village_Construction_Set
+ * http://todotxt.com/
 
 
