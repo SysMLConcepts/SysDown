@@ -21,7 +21,17 @@ SysDown
  * http://daringfireball.net/projects/markdown/syntax
  * http://www.omgsysml.org/
  * http://github.github.com/github-flavored-markdown/
- * http://opensourceecology.org/wiki/Global_Village_Construction_Set
+ * http://opensourceecology.org/wiki/Global_Village_Construction_Set - Important guiding principles
+  - Open Source 
+  - Low-Cost 
+  - Modular 
+  - User-Serviceable 
+  - DIY 
+  - Closed Loop Manufacturing
+  - High Performance 
+  - Flexible Fabrication 
+  - Distributive Economics 
+  - Industrial Efficiency 
  * http://todotxt.com/
  * https://github.com/chjj/marked
  * http://nodejs.org/
