@@ -1,45 +1,45 @@
-# pkg [Model] Data [Model Organization]
+# Model Automobile
 
-## bdd [Package] Automobile Domain
+## _Package_ Automobile Domain
 
-### pkg Uses Cases
+### _Package_ Uses Cases
 
-### pkg IO Definitions
+### _Package_ IO Definitions
 
-### pkg Behavior
+### _Package_ Behavior
 
-### pkg Viewpoints
+### _Package_ Viewpoints
 
-### pkg Structure
+### _Package_ Structure
 
-### pkg Value Types
+### _Package_ Value Types
 
-### pkg Parametrics
+### _Package_ Parametrics
 
-### pkg Vehicle
+### _Package_ Vehicle
 
-#### req [Package] [Automobile System Requirements]
+#### _Package_ Automobile System Requirements
 
- * _requirement_ Automobile Specification
-  * _requirement_ Passenger and Baggage Load
-  * _requirement_ Vehicle Performance
-   * _requirement_ Maximum Acceleration
+ * __requirement__ Automobile Specification
+  * __requirement__ Passenger and Baggage Load
+  * __requirement__ Vehicle Performance
+   * __requirement__ Maximum Acceleration
     * Id = "1.4.8"
     * Text = "The vehicle shall accelerate from 0-60 in less than 8 seconds under specified conditions"
     * TracedTo = Market Analysis
-   * _requirement_ Top Speed
-   * _requirement_ Braking Distance
-   * _requirement_ Turning Radius
-  * _requirement_ Riding Comfort
-   * _requirement_ Space
-   * _requirement_ Vibration
-   * _requirement_ Noise
-  * _requirement_ Production Cost
-  * _requirement_ Reliability
-  * _requirement_ Occupant Safety
-  * _requirement_ Emissions
-  * _requirement_ Fuel Efficiency
+   * __requirement__ Top Speed
+   * __requirement__ Braking Distance
+   * __requirement__ Turning Radius
+  * __requirement__ Riding Comfort
+   * __requirement__ Space
+   * __requirement__ Vibration
+   * __requirement__ Noise
+  * __requirement__ Production Cost
+  * __requirement__ Reliability
+  * __requirement__ Occupant Safety
+  * __requirement__ Emissions
+  * __requirement__ Fuel Efficiency
 
-#### pkg Behavior ####
+#### _Package_ Behavior ####
 
-#### pkg Structure ####
+#### _Package_ Structure ####
