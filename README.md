@@ -3,10 +3,10 @@ SysDown
 
 ### Inspiration (necessity is the mother of invention) ###
 
- * SysML tools too complicated
- * Data representation is not "free" or easily editable without heavyweight tools
-  * UML cannot be hand-edited on a far-away island with nothing more than vim
- * todo.txt amazing example of how you can build useful tools around very data representation and simple set of rules 
+ * SysML tools too complicated (especially for n00bs, or people who don't intend to major in the topic)
+ * Data representation is not "free" and not easily editable/usable without heavyweight tools
+  * SysML data, as it stands, cannot be hand-edited on a far-away island with nothing more than vim
+ * todo.txt amazing example of how you can build useful tools around very simple data representation and simple set of rules 
  
 ### Goals ###
 
