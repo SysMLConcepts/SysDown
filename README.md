@@ -14,8 +14,16 @@ SysDown
  * Inspired by todo.txt concept
  * Ubiquitous access to creation, editing, visualizing, and otherwise working with SysmL diagrams and concepts
   - Access from mobile devices (javascript/html only required)
+    - one possible form similar to [tiddlywiki](Http://tiddlywiki.com), with a single file
+      - sysml editor (text and graphics)
+        - codemirror and epicdeditor
+        - asciiflow, something like ditaa
+      - presentation editor a la [rvl.io](http://rvl.io)
+      - instance editor a la handsontable
   - Access from any text editor (vim, nano, Emacs, Notepad++, ...)
-  - Should be able to work from anywhere... 
+  - Should be able to work from anywhere...
+  - expose the "good parts" of downstream sysml
+    - par, stm and act execution
  
 ### References ###
  * http://daringfireball.net/projects/markdown/syntax
