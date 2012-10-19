@@ -20,22 +20,22 @@
 
 #### req [Package] [Automobile System Requirements] ####
 
- * <<requirement>> Automobile Specification
-  * <requirement> Passenger and Baggage Load
-  * <requirement> Vehicle Performance
-   * <requirement> Maximum Acceleration
-   * <requirement> Top Speed
-   * <requirement> Braking Distance
-   * <requirement> Turning Radius
-  * <requirement> Riding Comfort
-   * <requirement> Space
-   * <requirement> Vibration
-   * <requirement> Noise
-  * <requirement> Production Cost
-  * <requirement> Reliability
-  * <requirement> Occupant Safety
-  * <requirement> Emissions
-  * <requirement> Fuel Efficiency
+ * _requirement_ Automobile Specification
+  * _requirement_ Passenger and Baggage Load
+  * _requirement_ Vehicle Performance
+   * _requirement_ Maximum Acceleration
+   * _requirement_ Top Speed
+   * _requirement_ Braking Distance
+   * _requirement_ Turning Radius
+  * _requirement_ Riding Comfort
+   * _requirement_ Space
+   * _requirement_ Vibration
+   * _requirement_ Noise
+  * _requirement_ Production Cost
+  * _requirement_ Reliability
+  * _requirement_ Occupant Safety
+  * _requirement_ Emissions
+  * _requirement_ Fuel Efficiency
 
 #### pkg Behavior ####
 
