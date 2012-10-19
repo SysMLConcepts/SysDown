@@ -23,5 +23,6 @@ SysDown
  * http://github.github.com/github-flavored-markdown/
  * http://opensourceecology.org/wiki/Global_Village_Construction_Set
  * http://todotxt.com/
+ * https://github.com/chjj/marked
 
 
