@@ -24,6 +24,9 @@
   * _requirement_ Passenger and Baggage Load
   * _requirement_ Vehicle Performance
    * _requirement_ Maximum Acceleration
+    * Id = "1.4.8"
+    * Text = "The vehicle shall accelerate from 0-60 in less than 8 seconds under specified conditions"
+    * TracedTo = Market Analysis
    * _requirement_ Top Speed
    * _requirement_ Braking Distance
    * _requirement_ Turning Radius
