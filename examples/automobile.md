@@ -1,24 +1,24 @@
-# pkg [Model] Data [Model Organization] #
+# pkg [Model] Data [Model Organization]
 
-## bdd [Package] Automobile Domain ##
+## bdd [Package] Automobile Domain
 
-### pkg Uses Cases ##
+### pkg Uses Cases
 
-### pkg IO Definitions ##
+### pkg IO Definitions
 
-### pkg Behavior ###
+### pkg Behavior
 
-### pkg Viewpoints ###
+### pkg Viewpoints
 
-### pkg Structure ###
+### pkg Structure
 
-### pkg Value Types ###
+### pkg Value Types
 
-### pkg Parametrics ###
+### pkg Parametrics
 
-### pkg Vehicle ###
+### pkg Vehicle
 
-#### req [Package] [Automobile System Requirements] ####
+#### req [Package] [Automobile System Requirements]
 
  * _requirement_ Automobile Specification
   * _requirement_ Passenger and Baggage Load
