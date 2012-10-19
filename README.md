@@ -6,7 +6,7 @@ SysDown
  * SysML tools too complicated (especially for n00bs, or people who don't intend to major in the topic)
  * Data representation is not "free" and not easily editable/usable without heavyweight tools
   - SysML data, as it stands, cannot be hand-edited on a far-away island with nothing more than vim
- * todo.txt amazing example of how you can build useful tools around very simple data representation and simple set of rules 
+ * [todo.txt](http://todotxt.com) amazing example of how you can build useful tools around very simple data representation and simple set of rules 
  
 ### Goals ###
 
