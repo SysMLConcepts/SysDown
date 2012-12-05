@@ -22,6 +22,7 @@
 ###### __block__ Road
  * friction: Real
  * incline: Radian(unit = Radian)
+
 ###### __block__ External Entity
 ###### __block__ Atmosphere
   * temperature: DegC(unit = DegreesCelsius)
