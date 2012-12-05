@@ -24,9 +24,9 @@
   * __requirement__ Passenger and Baggage Load
   * __requirement__ Vehicle Performance
    * __requirement__ Maximum Acceleration
-    * Id = "1.4.8"
-    * Text = "The vehicle shall accelerate from 0-60 in less than 8 seconds under specified conditions"
-    * TracedTo = Market Analysis
+     * Id = "1.4.8"
+     * Text = "The vehicle shall accelerate from 0-60 in less than 8 seconds under specified conditions"
+     * TracedTo = Market Analysis
    * __requirement__ Top Speed
    * __requirement__ Braking Distance
    * __requirement__ Turning Radius
