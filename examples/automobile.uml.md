@@ -55,8 +55,8 @@
   * __requirement__ Occupant Safety
   * __requirement__ Emissions
   * __requirement__ Fuel Efficiency
-    * Id = "1.1"
-    * Text = "The vehicle shall achieve a minimum of 25 miles per gallon under specified driving conditions"
+     * Id = "1.1"
+     * Text = "The vehicle shall achieve a minimum of 25 miles per gallon under specified driving conditions"
 
 #### _Package_ Behavior ####
 
